@@ -10,4 +10,5 @@ end
  end
 
 
-#end
+blank_cat = Cat.new
+blank_cat.meow
